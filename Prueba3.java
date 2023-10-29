@@ -24,4 +24,13 @@ public class Prueba3 {
         int b = 2;
         return a+b;
     }
+
+    public float division(){
+
+        float a = 2.5f;
+        float b = 6.25f;
+
+        return a/b;
+    }
+
 }

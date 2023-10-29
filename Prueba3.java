@@ -18,4 +18,10 @@ public class Prueba3 {
         System.out.println("zzzzzzzzz");
 
     }
+
+    public int suma(){
+        int a = 1;
+        int b = 2;
+        return a+b;
+    }
 }
